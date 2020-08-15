@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "639D6717-21CD-4F44-A38B-0BD7D3DB3CAF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F35F5F55-E1AA-45BB-951A-62A2FE1158FA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Task10/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F35F5F55-E1AA-45BB-951A-62A2FE1158FA - 9971d3213c526292"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Task10.ViewController.prefectures.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "Task10"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miyazawaryohei/Desktop/IOS%E9%81%93%E5%A0%B4/Task10/Task10/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "F35F5F55-E1AA-45BB-951A-62A2FE1158FA - cf767c9aea3af322"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Task10.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Task10.ViewController"
+                  moduleName = "Task10"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miyazawaryohei/Desktop/IOS%E9%81%93%E5%A0%B4/Task10/Task10/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "252">
+               </Location>
+               <Location
+                  uuid = "F35F5F55-E1AA-45BB-951A-62A2FE1158FA - b66b4d714ffe050"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Task10.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Task10.ViewController&gt;"
+                  moduleName = "Task10"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miyazawaryohei/Desktop/IOS%E9%81%93%E5%A0%B4/Task10/Task10/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "199">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
